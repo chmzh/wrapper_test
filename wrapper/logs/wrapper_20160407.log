@@ -1,0 +1,14 @@
+STATUS | wrapper  | 2016/04/07 18:45:55 | --> Wrapper Started as Daemon
+STATUS | wrapper  | 2016/04/07 18:45:55 | Java Service Wrapper Community Edition 64-bit 3.5.29
+STATUS | wrapper  | 2016/04/07 18:45:55 |   Copyright (C) 1999-2016 Tanuki Software, Ltd. All Rights Reserved.
+STATUS | wrapper  | 2016/04/07 18:45:55 |     http://wrapper.tanukisoftware.com
+STATUS | wrapper  | 2016/04/07 18:45:55 | 
+STATUS | wrapper  | 2016/04/07 18:45:55 | Launching a JVM...
+INFO   | jvm 1    | 2016/04/07 18:45:56 | WrapperManager: Initializing...
+STATUS | wrapper  | 2016/04/07 18:46:35 | TERM trapped.  Shutting down.
+ERROR  | wrapper  | 2016/04/07 18:47:11 | Shutdown failed: Timed out waiting for signal from JVM.
+ERROR  | wrapper  | 2016/04/07 18:47:11 | JVM did not exit on request, termination requested.
+STATUS | wrapper  | 2016/04/07 18:47:11 | JVM received a signal SIGKILL (9).
+STATUS | wrapper  | 2016/04/07 18:47:11 | JVM process is gone.
+STATUS | wrapper  | 2016/04/07 18:47:11 | JVM exited after being requested to terminate.
+STATUS | wrapper  | 2016/04/07 18:47:12 | <-- Wrapper Stopped
